@@ -20,6 +20,11 @@ span {
     /* drop-shadow(16px 16px 10px black) */
 }
 
+p {
+    font-size: 50vw ;
+    /* drop-shadow(16px 16px 10px black) */
+}
+
 #settings {
     font-size: 5vw;
 }
@@ -27,4 +32,8 @@ span {
 .settings {
     text-align: center;
     font-size: 25vw;
+}
+
+.invisible {
+    visibility: hidden;
 }
