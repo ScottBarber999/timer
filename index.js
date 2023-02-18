@@ -10,7 +10,7 @@ screenColor = document.firstElementChild.style
 screenColor.backgroundColor = backgroundColorStopped;
 
 runningState = "False";
-defaultTimeRemaining = 3;
+defaultTimeRemaining = 30;
 timeRemaining = defaultTimeRemaining;
 
 mainDisplay = document.querySelector('.mainDisplay')
